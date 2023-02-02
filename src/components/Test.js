@@ -1,11 +1,10 @@
 import React from 'react'
+import MyNewDate from './NewDate/MyNewDate';
 
 const test = () => {
-    const date = new Date();
-    console.log(date)
   return (
     <div>
-      today
+      <MyNewDate/>
     </div>
   )
 }

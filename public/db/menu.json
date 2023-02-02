@@ -1,0 +1,73 @@
+[
+
+{
+    "id":"1",
+    "date":"01/29/2023",
+    "dayofweek":"Sunday",
+    "entre":"Szechuan Chicken" ,
+    "veg":"",
+    "starch":"Ramen Noodles",
+    "occasion":""
+},
+
+{
+    "id":"2",
+    "date":"01/30/2023",
+    "dayofweek":"Monday",
+    "entre":"Chicken Thighs" ,
+    "veg":"Green Beans w/Almonds",
+    "starch":"Rice",
+    "occasion":""
+},
+
+{
+    "id":"3",
+    "date":"01/31/2023",
+    "dayofweek":"Tuesday",
+    "entre":"Bacon Wrapped Chicken" ,
+    "veg":"Zucchini and Squash",
+    "starch":"Bread",
+    "occasion":""
+},
+
+{
+    "id":"4",
+    "date":"02/01/2023",
+    "dayofweek":"Wednesday",
+    "entre":"Chef Salad" ,
+    "veg":"Lettuce and Tomato",
+    "starch":"Baguette",
+    "occasion":""
+},
+
+{
+    "id":"5",
+    "date":"02/02/2023",
+    "dayofweek":"Thursday",
+    "entre":"Turkey Burgers" ,
+    "veg":"Green Beans",
+    "starch":"French Fries",
+    "occasion":""
+},
+
+{
+    "id":"6",
+    "date":"02/03/2023",
+    "dayofweek":"Friday",
+    "entre":"Pizza" ,
+    "veg":"",
+    "starch":"Crust",
+    "occasion":"Weekend"
+},
+
+{
+    "id":"7",
+    "date":"02/04/2023",
+    "dayofweek":"Saturday",
+    "entre":"Out After Church" ,
+    "veg":"",
+    "starch":"",
+    "occasion":"Church"
+}
+]
+

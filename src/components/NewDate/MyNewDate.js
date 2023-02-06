@@ -5,6 +5,9 @@ const StyledPara = styled.p`
   text-transform: lowercase;
   line-height: 1;
   padding-left: 20px;
+  padding-bottom: 30px;
+  margin: auto;
+  text-align: center;
   &:first-letter {
     text-transform: uppercase;
     font-size: 3em;

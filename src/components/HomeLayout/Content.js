@@ -4,8 +4,7 @@ import MenuTable from './MenuTable'
 const Content = () => {
   return (
       <main>
-        <MenuTable/>
-          
+        <MenuTable/> 
     </main>
   )
 }

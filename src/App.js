@@ -1,10 +1,10 @@
-import Content from './components/Content'
-import './index.css'
-import Home from './components/Home'
+import MenuTable from './components/Menu/MenuTable'
+
+import Home from './components/HomeLayout/Home'
 import { Routes, Route } from 'react-router-dom'
 import Navbar from './components/Navbar'
 
-import Test from './components/Test'
+import MenuFilter from './components/Menu/MenuFilter'
 
 function App() {
   return (
@@ -12,8 +12,8 @@ function App() {
       <Navbar />
       <Routes>
         <Route path='/' element={<Home />} />
-        <Route path='/menu' element={<Content />} />
-        <Route path = '/test' element ={<Test/>} />
+        <Route path='/menu' element={<MenuTable />} />
+        <Route path = '/one' element ={<MenuFilter/>} />
       </Routes>
 
     </>

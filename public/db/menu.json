@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "date": "01/29/2023",
+    "date": "01-29-2023",
     "dayofweek": "Sunday",
     "entre": "Szechuan Chicken",
     "veg": "",
@@ -11,7 +11,7 @@
 
   {
     "id": "2",
-    "date": "01/30/2023",
+    "date": "01-30-2023",
     "dayofweek": "Monday",
     "entre": "Chicken Thighs",
     "veg": "Green Beans w/Almonds",
@@ -21,7 +21,7 @@
 
   {
     "id": "3",
-    "date": "01/31/2023",
+    "date": "01-31-2023",
     "dayofweek": "Tuesday",
     "entre": "Bacon Wrapped Chicken",
     "veg": "Zucchini and Squash",
@@ -31,7 +31,7 @@
 
   {
     "id": "4",
-    "date": "02/01/2023",
+    "date": "02-01-2023",
     "dayofweek": "Wednesday",
     "entre": "Chef Salad",
     "veg": "Lettuce and Tomato",
@@ -41,7 +41,7 @@
 
   {
     "id": "5",
-    "date": "02/02/2023",
+    "date": "02-02-2023",
     "dayofweek": "Thursday",
     "entre": "Turkey Burgers",
     "veg": "Green Beans",
@@ -51,7 +51,7 @@
 
   {
     "id": "6",
-    "date": "02/03/2023",
+    "date": "02-03-2023",
     "dayofweek": "Friday",
     "entre": "Pizza",
     "veg": "",
@@ -61,7 +61,7 @@
 
   {
     "id": "7",
-    "date": "02/04/2023",
+    "date": "02-04-2023",
     "dayofweek": "Saturday",
     "entre": "Out After Church",
     "veg": "",
@@ -70,7 +70,7 @@
   },
   {
     "id": "8",
-    "date": "02/05/2023",
+    "date": "02-05-2023",
     "dayofweek": "Sunday",
     "entre": "Stuffed Chicken",
     "veg": "Green Beans w/Almonds",
@@ -80,7 +80,7 @@
 
   {
     "id": "9",
-    "date": "02/06/2023",
+    "date": "2-6-2023",
     "dayofweek": "Monday",
     "entre": "Roast Beef",
     "veg": "Potatoes",
@@ -90,7 +90,7 @@
 
   {
     "id": "10",
-    "date": "02/07/2023",
+    "date": "02-07-2023",
     "dayofweek": "Tuesday",
     "entre": "Pork Chops",
     "veg": "Apple Sauce",
@@ -100,7 +100,7 @@
 
   {
     "id": "11",
-    "date": "02/08/2023",
+    "date": "02-08-2023",
     "dayofweek": "Wednesday",
     "entre": "Gilled Chicken",
     "veg": "Squash and Zucchini",
@@ -110,7 +110,7 @@
 
   {
     "id": "12",
-    "date": "02/09/2023",
+    "date": "02-09-2023",
     "dayofweek": "Thursday",
     "entre": "Manwiches",
     "veg": "Salad",
@@ -120,7 +120,7 @@
 
   {
     "id": "13",
-    "date": "02/10/2023",
+    "date": "02-10-2023",
     "dayofweek": "Friday",
     "entre": "Wings",
     "veg": "Celery and Carrots",
@@ -130,7 +130,7 @@
 
   {
     "id": "14",
-    "date": "02/11/2023",
+    "date": "02-11-2023",
     "dayofweek": "Saturday",
     "entre": "Out After Church",
     "veg": "",

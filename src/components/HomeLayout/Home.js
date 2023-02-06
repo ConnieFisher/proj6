@@ -1,6 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
-import MyNewDate from './NewDate/MyNewDate'
+import MyNewDate from '../NewDate/MyNewDate'
+import MenuFilter from '../Menu/MenuFilter'
 
 const StyledWrapper = styled.div`
   font-family: 'Indie Flower', cursive;
@@ -31,7 +32,10 @@ const HomeSpan = styled.span`
 
 const Home = () => {
   return (
-    <div><MyNewDate/>
+    <div>
+      <MyNewDate />
+      <MenuFilter />
+      
     <StyledWrapper className='title'>
       
       <Homeh1 className='homeh1'>My Lake</Homeh1>

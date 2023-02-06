@@ -1,73 +1,140 @@
 [
+  {
+    "id": "1",
+    "date": "01/29/2023",
+    "dayofweek": "Sunday",
+    "entre": "Szechuan Chicken",
+    "veg": "",
+    "starch": "Ramen Noodles",
+    "occasion": ""
+  },
 
-{
-    "id":"1",
-    "date":"01/29/2023",
-    "dayofweek":"Sunday",
-    "entre":"Szechuan Chicken" ,
-    "veg":"",
-    "starch":"Ramen Noodles",
-    "occasion":""
-},
+  {
+    "id": "2",
+    "date": "01/30/2023",
+    "dayofweek": "Monday",
+    "entre": "Chicken Thighs",
+    "veg": "Green Beans w/Almonds",
+    "starch": "Rice",
+    "occasion": ""
+  },
 
-{
-    "id":"2",
-    "date":"01/30/2023",
-    "dayofweek":"Monday",
-    "entre":"Chicken Thighs" ,
-    "veg":"Green Beans w/Almonds",
-    "starch":"Rice",
-    "occasion":""
-},
+  {
+    "id": "3",
+    "date": "01/31/2023",
+    "dayofweek": "Tuesday",
+    "entre": "Bacon Wrapped Chicken",
+    "veg": "Zucchini and Squash",
+    "starch": "Bread",
+    "occasion": ""
+  },
 
-{
-    "id":"3",
-    "date":"01/31/2023",
-    "dayofweek":"Tuesday",
-    "entre":"Bacon Wrapped Chicken" ,
-    "veg":"Zucchini and Squash",
-    "starch":"Bread",
-    "occasion":""
-},
+  {
+    "id": "4",
+    "date": "02/01/2023",
+    "dayofweek": "Wednesday",
+    "entre": "Chef Salad",
+    "veg": "Lettuce and Tomato",
+    "starch": "Baguette",
+    "occasion": ""
+  },
 
-{
-    "id":"4",
-    "date":"02/01/2023",
-    "dayofweek":"Wednesday",
-    "entre":"Chef Salad" ,
-    "veg":"Lettuce and Tomato",
-    "starch":"Baguette",
-    "occasion":""
-},
+  {
+    "id": "5",
+    "date": "02/02/2023",
+    "dayofweek": "Thursday",
+    "entre": "Turkey Burgers",
+    "veg": "Green Beans",
+    "starch": "French Fries",
+    "occasion": ""
+  },
 
-{
-    "id":"5",
-    "date":"02/02/2023",
-    "dayofweek":"Thursday",
-    "entre":"Turkey Burgers" ,
-    "veg":"Green Beans",
-    "starch":"French Fries",
-    "occasion":""
-},
+  {
+    "id": "6",
+    "date": "02/03/2023",
+    "dayofweek": "Friday",
+    "entre": "Pizza",
+    "veg": "",
+    "starch": "Crust",
+    "occasion": "Weekend"
+  },
 
-{
-    "id":"6",
-    "date":"02/03/2023",
-    "dayofweek":"Friday",
-    "entre":"Pizza" ,
-    "veg":"",
-    "starch":"Crust",
-    "occasion":"Weekend"
-},
+  {
+    "id": "7",
+    "date": "02/04/2023",
+    "dayofweek": "Saturday",
+    "entre": "Out After Church",
+    "veg": "",
+    "starch": "",
+    "occasion": "Church"
+  },
+  {
+    "id": "8",
+    "date": "02/05/2023",
+    "dayofweek": "Sunday",
+    "entre": "Stuffed Chicken",
+    "veg": "Green Beans w/Almonds",
+    "starch": "Potatoes",
+    "occasion": ""
+  },
 
-{
-    "id":"7",
-    "date":"02/04/2023",
-    "dayofweek":"Saturday",
-    "entre":"Out After Church" ,
-    "veg":"",
-    "starch":"",
-    "occasion":"Church"
-}
+  {
+    "id": "9",
+    "date": "02/06/2023",
+    "dayofweek": "Monday",
+    "entre": "Roast Beef",
+    "veg": "Potatoes",
+    "starch": "Carrots",
+    "occasion": ""
+  },
+
+  {
+    "id": "10",
+    "date": "02/07/2023",
+    "dayofweek": "Tuesday",
+    "entre": "Pork Chops",
+    "veg": "Apple Sauce",
+    "starch": "Egg Noodles",
+    "occasion": ""
+  },
+
+  {
+    "id": "11",
+    "date": "02/08/2023",
+    "dayofweek": "Wednesday",
+    "entre": "Gilled Chicken",
+    "veg": "Squash and Zucchini",
+    "starch": "Baguette",
+    "occasion": "70 degrees outside"
+  },
+
+  {
+    "id": "12",
+    "date": "02/09/2023",
+    "dayofweek": "Thursday",
+    "entre": "Manwiches",
+    "veg": "Salad",
+    "starch": "French Fries",
+    "occasion": ""
+  },
+
+  {
+    "id": "13",
+    "date": "02/10/2023",
+    "dayofweek": "Friday",
+    "entre": "Wings",
+    "veg": "Celery and Carrots",
+    "starch": "",
+    "occasion": "Weekend"
+  },
+
+  {
+    "id": "14",
+    "date": "02/11/2023",
+    "dayofweek": "Saturday",
+    "entre": "Out After Church",
+    "veg": "",
+    "starch": "",
+    "occasion": "Church"
+  }
 ]
-

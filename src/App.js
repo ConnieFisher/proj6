@@ -3,7 +3,7 @@ import './index.css'
 import Home from './components/Home'
 import { Routes, Route } from 'react-router-dom'
 import Navbar from './components/Navbar'
-import Footer from './components/Footer'
+
 import Test from './components/Test'
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
         <Route path='/menu' element={<Content />} />
         <Route path = '/test' element ={<Test/>} />
       </Routes>
-      <Footer/>
+
     </>
   )
 }
